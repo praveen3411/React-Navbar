@@ -1,0 +1,45 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  #one {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    border-right-style: inset;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+  }
+  #three {
+    height: 40px;
+    width: 80px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: violet;
+    font-weight: bold;
+  }
+  #two {
+    border: 1px solid wheat;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin-top: 15px;
+  }
+  #four {
+    margin-top: 30px;
+  }
+  #five {
+    display: flex;
+    justify-content: space-around;
+  }
+  #five img {
+    border: 1px solid black;
+    border-radius: 10px;
+    transform: translateY(3px);
+  }
+  #five h3 {
+    border: 1px solid black;
+    border-radius: 10px;
+  }
+  
